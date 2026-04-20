@@ -1,5 +1,7 @@
 # OpenAIRT-300
 
+![logo](/openairt-300-lockup-dark.svg)
+
 **An open-source, JavaScript-first alternative to OffSec AI-300.**
 Community-buildable, fully hands-on curriculum for offensive AI security.
 

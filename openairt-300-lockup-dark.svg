@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="800" height="300" role="img" aria-label="OpenAIRT-300 — Offensive AI — Open Source Labs &amp; Curriculum">
+  <rect width="800" height="300" fill="#0a0a0a"/>
+  <!-- icon at left -->
+  <g transform="translate(80 70)">
+    <line x1="80" y1="0" x2="80" y2="45" stroke="#f5f2ec" stroke-width="3"/>
+    <line x1="80" y1="115" x2="80" y2="160" stroke="#f5f2ec" stroke-width="3"/>
+    <line x1="0" y1="80" x2="45" y2="80" stroke="#f5f2ec" stroke-width="3"/>
+    <line x1="115" y1="80" x2="160" y2="80" stroke="#f5f2ec" stroke-width="3"/>
+    <path d="M 30 40 L 30 30 L 40 30" stroke="#f5f2ec" stroke-width="4" fill="none"/>
+    <path d="M 120 30 L 130 30 L 130 40" stroke="#f5f2ec" stroke-width="4" fill="none"/>
+    <path d="M 130 120 L 130 130 L 120 130" stroke="#f5f2ec" stroke-width="4" fill="none"/>
+    <path d="M 40 130 L 30 130 L 30 120" stroke="#f5f2ec" stroke-width="4" fill="none"/>
+    <circle cx="80" cy="80" r="10" fill="#ff2d2d"/>
+    <circle cx="80" cy="80" r="20" stroke="#ff2d2d" stroke-width="2" fill="none" opacity="0.55"/>
+  </g>
+  <!-- wordmark -->
+  <text x="290" y="160" font-family="Inter Tight, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#f5f2ec">Open<tspan fill="#ff2d2d">AIRT</tspan>-300</text>
+  <text x="292" y="195" font-family="JetBrains Mono, ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#f5f2ec" opacity="0.6">OFFENSIVE AI — OPEN SOURCE LABS &amp; CURRICULUM</text>
+</svg>
