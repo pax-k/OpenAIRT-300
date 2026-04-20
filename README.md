@@ -115,8 +115,6 @@ All contributions follow a coordinated-disclosure policy: if building a lab unco
 - **Code** (labs, scoring scripts, Docker/Compose/Terraform, tooling): MIT unless the lab specifies otherwise.
 - **Incident references** (CVEs, published write-ups, news coverage): cited to their original sources; not relicensed.
 
-Attribution: *OpenAIRT-300 by PaxDynamics for eu-acc.ro — https://github.com/…*
-
 ## Positioning vs OffSec AI-300 — honest trade-offs
 
 | | OffSec AI-300 (OSAI+) | OpenAIRT-300 |
